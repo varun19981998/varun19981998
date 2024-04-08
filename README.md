@@ -12,7 +12,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 
-💬 About Me
+# 💬 About Me
 # Hi there, I'm Varun Pratap Singh 👋
 
 I'm a passionate web developer with a strong front-end and back-end technologies foundation. My journey in web development began when I was pursuing a B.Tech(Computer Science). Since then, I've been on an exciting and ever-evolving adventure of creating beautiful, user-friendly web experiences.
