@@ -1,9 +1,9 @@
 # varunprofile
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-    <img src="https://www.shutterstock.com/shutterstock/photos/1078387013/display_1500/stock-vector-programming-banner-coding-best-programming-languages-flat-illustration-concept-1078387013.jpg" width="100"/>
-      <img src="https://img.freepik.com/free-vector/programmers-concept-with-flat-design_23-2147857538.jpg?w=740&t=st=1712566232~exp=1712566832~hmac=03e770e14a43c1e41685c1c49b5132a2ee5530f7d1fad48580a27ba290f7eaad" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
+    <img src="https://www.shutterstock.com/shutterstock/photos/1078387013/display_1500/stock-vector-programming-banner-coding-best-programming-languages-flat-illustration-concept-1078387013.jpg" width="250"/>
+      <img src="https://img.freepik.com/free-vector/programmers-concept-with-flat-design_23-2147857538.jpg?w=740&t=st=1712566232~exp=1712566832~hmac=03e770e14a43c1e41685c1c49b5132a2ee5530f7d1fad48580a27ba290f7eaad" width="200"/>
     
    
   
