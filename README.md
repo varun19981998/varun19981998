@@ -1,2 +1,2 @@
 # varunprofile
-A passionate full-stack Web/MERN developer from India
+A passionate full-stack  developer from India
