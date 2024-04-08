@@ -5,6 +5,25 @@ A passionate full-stack  developer from India
 </div>
 
 
+💬 About Me
+# Hi there, I'm Varun Pratap Singh 👋
+
+I'm a passionate web developer with a strong front-end and back-end technologies foundation. My journey in web development began when I was pursuing a B.Tech(Computer Science). Since then, I've been on an exciting and ever-evolving adventure of creating beautiful, user-friendly web experiences.
+
+
+## 🚀 What I Do
+
+Front-End Development: I craft responsive, pixel-perfect user interfaces. HTML, CSS, and JavaScript are my daily companions, and I'm a big fan of modern frameworks like React.js.
+
+Back-End Development: I'm not just about making things look good; I also enjoy working under the hood. I'm proficient in Node.js .java. to build robust and scalable server-side applications.
+
+Database Management: Databases are the heart of any dynamic web application. I'm experienced in designing and optimizing databases using MySQL and MongoDB.
+
+Version Control: Collaboration and code management are essential. I'm well-versed in using Git and GitHub for seamless version control and team collaboration.
+
+
+
+
 
 
 
