@@ -75,4 +75,4 @@ https://github-readme-streak-stats.herokuapp.com/?user=varun19981998
 
 ### :writing_hand: Blog Posts :
 
-![Snake animation](https://github.com/varun19981998/varun19898/blob/output/github-contribution-grid-snake.svg
+
