@@ -47,7 +47,7 @@ Version Control: Collaboration and code management are essential. I'm well-verse
   </a>
 </div>
 
-### :hammer_and_wrench: Languages and Tools :
+### :Hammer_and_Wrench: Languages and Tools :
 <div align= "center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
